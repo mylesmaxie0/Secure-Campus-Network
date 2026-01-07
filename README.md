@@ -1,4 +1,4 @@
-# Three-Tier Enterprise Network Architecture
+# Three-Tier Enterprise Network 
 
 ## Overview
 This project showcases the design and deployment of a virtualized enterprise network using a three-tier hierarchical architecture. The network is built to demonstrate scalability, high availability, and security through industry-standard routing, redundancy, and firewall technologies commonly used in enterprise environments.
