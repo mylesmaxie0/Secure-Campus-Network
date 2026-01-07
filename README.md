@@ -44,5 +44,6 @@ This project showcases the design and deployment of a virtualized enterprise net
 
 
 #### Network Topology
-<img width="1728" height="1057" alt="Screenshot 2026-01-05 at 4 38 51 AM" src="https://github.com/user-attachments/assets/9ab6f067-bde4-4338-bca8-8b56633009a0" />
+<img width="1728" height="1062" alt="Screenshot 2026-01-07 at 6 36 39 PM" src="https://github.com/user-attachments/assets/50b3509e-7f05-4f94-b598-4adc3dbf5791" />
+
 
